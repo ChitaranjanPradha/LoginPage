@@ -1,0 +1,40 @@
+.center{
+    text-align: center;
+}
+table{ border-radius: 10px; padding: 51px 55px 44px 51px;
+    box-shadow: 14px 14px 15px rgba(0, 0, 0, 0.806);}
+table{
+    background-color: rgba(250, 250, 250, 0.758);
+    margin-top: 30px;
+
+}
+a{text-decoration: none;}
+.bimg{
+    background-image: url(back.jpg);
+    height: 100vh;
+    margin: 0%;
+    justify-content: center;
+     background-size: cover;
+   margin-top: -21px;
+    margin-left: -21px;
+    margin-right: -21px;
+    background-attachment: fixed;
+}
+h1,h2{
+    color: rgb(255, 255, 255);
+}
+h2{
+    padding-top: 20px;
+}
+.fa-facebook-f:before {
+    content: "\f39e";
+    padding-left: 35px;
+    padding-right: 35px;
+}
+input[type=checkbox] {
+    accent-color: red;
+  }
+  h1{
+    PADDING-TOP: 10PX;
+    font-family: Arial, Helvetica, sans-serif;
+  }
